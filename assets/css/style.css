@@ -119,7 +119,7 @@ p:last-child {
 }
 
 .default-btn-one {
-  background-color: #c8242f;
+  background-color: #66bb6a;
   color: #ffffff;
   padding: 13px 25px;
   display: inline-block;
@@ -161,7 +161,7 @@ p:last-child {
 .section-title span::before {
   content: '';
   position: absolute;
-  background-color: #c8242f;
+  background-color: #66bb6a;
   height: 1px;
   left: 0;
   right: 0;
@@ -175,7 +175,7 @@ p:last-child {
 }
 
 .section-title h2 span {
-  color: #c8242f;
+  color: #66bb6a;
   font-size: 45px;
   padding: 0;
   margin: 0;
@@ -233,7 +233,7 @@ Top Heder
 .top-header .left-info li a i {
   margin-right: 5px;
   font-size: 20px;
-  color: #c8242f;
+  color: #66bb6a;
   -webkit-transition: all 0.5s;
   transition: all 0.5s;
   position: relative;
@@ -241,7 +241,7 @@ Top Heder
 }
 
 .top-header .left-info li a:hover {
-  color: #c8242f;
+  color: #66bb6a;
 }
 
 .top-header .left-info li a:hover i {
@@ -284,17 +284,17 @@ Top Heder
 }
 
 .top-header .right-info li a:hover {
-  color: #c8242f;
+  color: #66bb6a;
 }
 
 .top-header .right-info li a:hover i {
-  background: #c8242f;
-  border: 1px solid #c8242f;
+  background: #66bb6a;
+  border: 1px solid #66bb6a;
   color: #ffffff;
 }
 
 .top-header .right-info .heder-btn {
-  background-color: #c8242f;
+  background-color: #66bb6a;
   padding: 15px 30px;
   margin-left: 25px;
 }
@@ -404,7 +404,7 @@ Navbar Area
 }
 
 .atorn-nav .navbar .navbar-nav .nav-item a:hover, .atorn-nav .navbar .navbar-nav .nav-item a:focus, .atorn-nav .navbar .navbar-nav .nav-item a.active {
-  color: #c8242f;
+  color: #66bb6a;
 }
 
 .atorn-nav .navbar .navbar-nav .nav-item:last-child {
@@ -416,7 +416,7 @@ Navbar Area
 }
 
 .atorn-nav .navbar .navbar-nav .nav-item:hover a, .atorn-nav .navbar .navbar-nav .nav-item.active a {
-  color: #c8242f;
+  color: #66bb6a;
 }
 
 .atorn-nav .navbar .navbar-nav .nav-item .dropdown-menu {
@@ -462,7 +462,7 @@ Navbar Area
 }
 
 .atorn-nav .navbar .navbar-nav .nav-item .dropdown-menu li a:hover, .atorn-nav .navbar .navbar-nav .nav-item .dropdown-menu li a:focus, .atorn-nav .navbar .navbar-nav .nav-item .dropdown-menu li a.active {
-  color: #c8242f;
+  color: #66bb6a;
 }
 
 .atorn-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu {
@@ -478,7 +478,7 @@ Navbar Area
 }
 
 .atorn-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li a:hover, .atorn-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li a:focus, .atorn-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li a.active {
-  color: #c8242f;
+  color: #66bb6a;
 }
 
 .atorn-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu {
@@ -493,7 +493,7 @@ Navbar Area
 }
 
 .atorn-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li a:hover, .atorn-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li a:focus, .atorn-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li a.active {
-  color: #c8242f;
+  color: #66bb6a;
 }
 
 .atorn-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu {
@@ -508,7 +508,7 @@ Navbar Area
 }
 
 .atorn-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:hover, .atorn-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:focus, .atorn-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a.active {
-  color: #c8242f;
+  color: #66bb6a;
 }
 
 .atorn-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu {
@@ -523,7 +523,7 @@ Navbar Area
 }
 
 .atorn-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:hover, .atorn-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:focus, .atorn-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a.active {
-  color: #c8242f;
+  color: #66bb6a;
 }
 
 .atorn-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu {
@@ -538,7 +538,7 @@ Navbar Area
 }
 
 .atorn-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:hover, .atorn-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:focus, .atorn-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a.active {
-  color: #c8242f;
+  color: #66bb6a;
 }
 
 .atorn-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu {
@@ -553,11 +553,11 @@ Navbar Area
 }
 
 .atorn-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:hover, .atorn-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:focus, .atorn-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a.active {
-  color: #c8242f;
+  color: #66bb6a;
 }
 
 .atorn-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li.active a {
-  color: #c8242f;
+  color: #66bb6a;
 }
 
 .atorn-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li:hover .dropdown-menu {
@@ -566,7 +566,7 @@ Navbar Area
 }
 
 .atorn-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li.active a {
-  color: #c8242f;
+  color: #66bb6a;
 }
 
 .atorn-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li:hover .dropdown-menu {
@@ -575,7 +575,7 @@ Navbar Area
 }
 
 .atorn-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li.active a {
-  color: #c8242f;
+  color: #66bb6a;
 }
 
 .atorn-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li:hover .dropdown-menu {
@@ -584,7 +584,7 @@ Navbar Area
 }
 
 .atorn-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li.active a {
-  color: #c8242f;
+  color: #66bb6a;
 }
 
 .atorn-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li:hover .dropdown-menu {
@@ -593,7 +593,7 @@ Navbar Area
 }
 
 .atorn-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li.active a {
-  color: #c8242f;
+  color: #66bb6a;
 }
 
 .atorn-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li:hover .dropdown-menu {
@@ -602,7 +602,7 @@ Navbar Area
 }
 
 .atorn-nav .navbar .navbar-nav .nav-item .dropdown-menu li.active a {
-  color: #c8242f;
+  color: #66bb6a;
 }
 
 .atorn-nav .navbar .navbar-nav .nav-item .dropdown-menu li:hover .dropdown-menu {
@@ -728,7 +728,7 @@ Navbar Area
     font-size: 15px;
   }
   .atorn-responsive-nav .atorn-responsive-menu.mean-container .mean-nav ul li a.active {
-    color: #c8242f;
+    color: #66bb6a;
   }
   .atorn-responsive-nav .atorn-responsive-menu.mean-container .mean-nav ul li li a {
     font-size: 13px;
@@ -740,14 +740,14 @@ Navbar Area
             box-shadow: 0 7px 13px 0 rgba(0, 0, 0, 0.1);
   }
   .atorn-responsive-nav .mean-container a.meanmenu-reveal {
-    color: #c8242f;
+    color: #66bb6a;
   }
   .atorn-responsive-nav .mean-container a.meanmenu-reveal span {
-    background: #c8242f;
+    background: #66bb6a;
   }
   .atorn-responsive-nav .others-option {
     display: none !important;
-    background-color: #c8242f;
+    background-color: #66bb6a;
     border-radius: 30px;
     padding: 10px 18px 3px;
   }
@@ -929,7 +929,7 @@ Search Overlay CSS
 }
 
 .search-overlay .search-overlay-close:hover .search-overlay-close-line {
-  background: #c8242f;
+  background: #66bb6a;
   -webkit-transform: rotate(180deg);
           transform: rotate(180deg);
 }
@@ -1020,7 +1020,7 @@ Search Overlay CSS
   color: #fff;
   height: 50px;
   border-radius: 50%;
-  background-color: #c8242f;
+  background-color: #66bb6a;
   -webkit-transition: all 0.5s;
   transition: all 0.5s;
   border: none;
@@ -1116,7 +1116,7 @@ Hero Slider Area
 .hero-slider .hero-slider-item .slider-content span::before {
   content: '';
   position: absolute;
-  background-color: #c8242f;
+  background-color: #66bb6a;
   width: 85px;
   height: 2px;
   left: 0;
@@ -1147,7 +1147,7 @@ Hero Slider Area
   position: absolute;
   left: 10px;
   top: 55%;
-  background: #c8242f;
+  background: #66bb6a;
   color: #ffffff;
   width: 40px;
   height: 40px;
@@ -1182,7 +1182,7 @@ Hero Slider Area
 }
 
 .hero-slider.owl-theme .owl-dots .owl-dot.active span {
-  background: #c8242f;
+  background: #66bb6a;
 }
 
 .hero-slider.hero-slider-two {
@@ -1230,7 +1230,7 @@ Law Card Area
 }
 
 .low-card i {
-  color: #c8242f;
+  color: #66bb6a;
   font-size: 50px;
   margin-bottom: 15px;
   -webkit-transition: all 0.5s;
@@ -1243,7 +1243,7 @@ Law Card Area
 }
 
 .low-card:hover {
-  background-color: #c8242f;
+  background-color: #66bb6a;
 }
 
 .low-card:hover h3 {
@@ -1282,7 +1282,7 @@ Law Card Area
 }
 
 .low-card-two i {
-  background-color: #c8242f;
+  background-color: #66bb6a;
   color: #ffffff;
   width: 60px;
   height: 60px;
@@ -1314,7 +1314,7 @@ Law Card Area
 }
 
 .low-card-two:hover {
-  background-color: #c8242f;
+  background-color: #66bb6a;
 }
 
 .low-card-two:hover i {
@@ -1373,7 +1373,7 @@ About Us Area
 }
 
 .about-area .about-text ul li i {
-  color: #c8242f;
+  color: #66bb6a;
   font-size: 20px;
   position: absolute;
   left: 0;
@@ -1508,7 +1508,7 @@ Service Area
 
 .service-card .service-text i {
   font-size: 35px;
-  color: #c8242f;
+  color: #66bb6a;
   background: #ffffff;
   width: 60px;
   height: 60px;
@@ -1528,7 +1528,7 @@ Service Area
 }
 
 .service-card .service-text h3 a span {
-  color: #c8242f;
+  color: #66bb6a;
 }
 
 .service-card .service-text p {
@@ -1541,7 +1541,7 @@ Service Area
 }
 
 .service-card:hover i {
-  background-color: #c8242f;
+  background-color: #66bb6a;
   color: #ffffff;
   -webkit-box-shadow: none;
           box-shadow: none;
@@ -1580,7 +1580,7 @@ Service Area
 }
 
 .services-details-content .blog-list li i {
-  color: #c8242f;
+  color: #66bb6a;
   position: relative;
   top: 0;
   font-size: 17px;
@@ -1612,7 +1612,7 @@ Service Area
 }
 
 .services-details-content .how-can-we-help .card {
-  border: 1px solid #c8242f;
+  border: 1px solid #66bb6a;
 }
 
 .services-details-content .how-can-we-help .card .card-header:first-child {
@@ -1693,8 +1693,8 @@ Service Area
 
 .services-details .comments-area .comment-body .reply a:hover {
   color: #ffffff;
-  background-color: #c8242f;
-  border-color: #c8242f;
+  background-color: #66bb6a;
+  border-color: #66bb6a;
 }
 
 .services-details .comments-area .comment-author {
@@ -1731,7 +1731,7 @@ Service Area
 }
 
 .services-details .comments-area .comment-metadata a:hover {
-  color: #c8242f;
+  color: #66bb6a;
 }
 
 .services-details .article-footer {
@@ -1750,12 +1750,12 @@ Service Area
       -ms-flex: 0 0 50%;
           flex: 0 0 50%;
   max-width: 50%;
-  color: #c8242f;
+  color: #66bb6a;
 }
 
 .services-details .article-footer .article-tags span {
   display: inline-block;
-  color: #c8242f;
+  color: #66bb6a;
   margin-right: 3px;
   position: relative;
   top: 3px;
@@ -1768,7 +1768,7 @@ Service Area
 }
 
 .services-details .article-footer .article-tags a:hover {
-  color: #c8242f;
+  color: #66bb6a;
 }
 
 .services-details .article-footer .article-share {
@@ -1802,9 +1802,9 @@ Service Area
   height: 32px;
   line-height: 34px;
   border-radius: 50%;
-  background-color: #c8242f;
+  background-color: #66bb6a;
   color: #ffffff;
-  border: 1px solid #c8242f;
+  border: 1px solid #66bb6a;
   text-align: center;
   font-size: 17px;
   margin-left: 2px;
@@ -1816,7 +1816,7 @@ Service Area
 }
 
 .services-details .article-footer .article-share .social li a:hover, .services-details .article-footer .article-share .social li a:focus {
-  color: #c8242f;
+  color: #66bb6a;
   background-color: #ffffff;
 }
 
@@ -2000,8 +2000,8 @@ Service Area
 }
 
 .services-details .comment-respond .form-submit input {
-  background: #c8242f;
-  border: 1px solid #c8242f;
+  background: #66bb6a;
+  border: 1px solid #66bb6a;
   color: #fff;
   padding: 10px 25px;
   display: inline-block;
@@ -2044,7 +2044,7 @@ Service Area
 .side-bar-box .title::before {
   content: '';
   position: absolute;
-  background-color: #c8242f;
+  background-color: #66bb6a;
   width: 75px;
   height: 4px;
   bottom: -15px;
@@ -2100,7 +2100,7 @@ Service Area
 
 .side-bar-box ul li a:hover {
   padding-left: 7px;
-  color: #c8242f;
+  color: #66bb6a;
 }
 
 .side-bar-box ul li:first-child a {
@@ -2113,7 +2113,7 @@ Service Area
 }
 
 .side-bar-box.tags-box ul li a {
-  border: 1px solid #c8242f;
+  border: 1px solid #66bb6a;
   padding: 4px 10px;
 }
 
@@ -2142,7 +2142,7 @@ Service Area
 }
 
 .side-bar-box .recent-post-content ul li a:hover {
-  color: #c8242f;
+  color: #66bb6a;
 }
 
 .side-bar-box .recent-post-content h3 {
@@ -2158,7 +2158,7 @@ Service Area
 }
 
 .side-bar-box .recent-post-content h3 a:hover {
-  color: #c8242f;
+  color: #66bb6a;
 }
 
 .side-bar-box .single-recent-post {
@@ -2201,7 +2201,7 @@ Our Service Area
 
 .our-service-card i {
   background-color: #ffffff;
-  color: #c8242f;
+  color: #66bb6a;
   font-size: 35px;
   width: 60px;
   height: 60px;
@@ -2223,7 +2223,7 @@ Our Service Area
 }
 
 .our-service-card h3 span {
-  color: #c8242f;
+  color: #66bb6a;
 }
 
 .our-service-card p {
@@ -2232,7 +2232,7 @@ Our Service Area
 }
 
 .our-service-card:hover {
-  background-color: #c8242f;
+  background-color: #66bb6a;
 }
 
 .our-service-card:hover i {
@@ -2306,7 +2306,7 @@ Choose Area
           transform: translateY(-50%);
   width: 80px;
   height: 80px;
-  background-color: #c8242f;
+  background-color: #66bb6a;
   border-radius: 50%;
   color: #ffffff;
   font-size: 60px;
@@ -2325,7 +2325,7 @@ Choose Area
   bottom: 0;
   left: 0;
   border-radius: 50%;
-  border: 1px solid #c8242f;
+  border: 1px solid #66bb6a;
   -webkit-transition: all 0.5s;
   transition: all 0.5s;
 }
@@ -2354,12 +2354,12 @@ Choose Area
 }
 
 .video-box .video-btn:hover, .video-box .video-btn:focus {
-  background-color: #c8242f;
+  background-color: #66bb6a;
   color: #ffffff;
 }
 
 .video-box .video-btn:hover::after, .video-box .video-btn:hover::before, .video-box .video-btn:focus::after, .video-box .video-btn:focus::before {
-  border-color: #c8242f;
+  border-color: #66bb6a;
 }
 
 @-webkit-keyframes ripple {
@@ -2415,7 +2415,7 @@ Choose Area
   -webkit-box-shadow: 0px 0px 20px #eeeeee;
           box-shadow: 0px 0px 20px #eeeeee;
   font-size: 30px;
-  color: #c8242f;
+  color: #66bb6a;
 }
 
 .choose-card h3 {
@@ -2459,7 +2459,7 @@ Fun Facts Area
 
 .signle-fun-fact i {
   font-size: 60px;
-  color: #c8242f;
+  color: #66bb6a;
   margin-bottom: 15px;
 }
 
@@ -2488,7 +2488,7 @@ Case Study Area
 }
 
 .case-study-area .section-title h2 span {
-  color: #c8242f;
+  color: #66bb6a;
 }
 
 .case-study-area .testimonials-slider .testimonials-slider-item .img-text {
@@ -2507,7 +2507,7 @@ Case Study Area
 }
 
 .case-study-area .testimonials-slider .testimonials-slider-item .img-text a {
-  color: #c8242f;
+  color: #66bb6a;
 }
 
 .case-study-area .testimonials-slider.owl-theme .owl-nav .owl-prev, .case-study-area .testimonials-slider.owl-theme .owl-nav .owl-next {
@@ -2528,7 +2528,7 @@ Case Study Area
 }
 
 .case-study .section-title h2 span {
-  color: #c8242f;
+  color: #66bb6a;
 }
 
 /*================================================
@@ -2563,7 +2563,7 @@ Right Way Area
 }
 
 .right-way .right-way-text {
-  background-color: #c8242f;
+  background-color: #66bb6a;
   width: 600px;
   margin-bottom: 15px;
   padding: 80px 70px;
@@ -2666,13 +2666,13 @@ blog Area
 .blog-card .blog-card-text ul li {
   display: inline-block;
   margin-right: 15px;
-  color: #c8242f;
+  color: #66bb6a;
   -webkit-transition: all 0.5s;
   transition: all 0.5s;
 }
 
 .blog-card .blog-card-text ul li i {
-  color: #c8242f;
+  color: #66bb6a;
   -webkit-transition: all 0.5s;
   transition: all 0.5s;
 }
@@ -2683,11 +2683,11 @@ blog Area
 }
 
 .blog-card .blog-card-text .read-more {
-  color: #c8242f;
+  color: #66bb6a;
 }
 
 .blog-card:hover {
-  background-color: #c8242f;
+  background-color: #66bb6a;
 }
 
 .blog-card:hover .blog-card-text h3 a {
@@ -2809,7 +2809,7 @@ Testimonials Area
 }
 
 .testimonials-area .testimonials-slider.owl-theme .owl-nav .owl-prev:hover, .testimonials-area .testimonials-slider.owl-theme .owl-nav .owl-next:hover {
-  background-color: #c8242f;
+  background-color: #66bb6a;
   color: #ffffff;
 }
 
@@ -2855,11 +2855,11 @@ Attorneey Area
 }
 
 .attorney-card .attorney-card-text h3 a:hover {
-  color: #c8242f;
+  color: #66bb6a;
 }
 
 .attorney-card .attorney-card-text p {
-  color: #c8242f;
+  color: #66bb6a;
   margin-bottom: 5px;
 }
 
@@ -2875,7 +2875,7 @@ Attorneey Area
 }
 
 .attorney-card .attorney-card-text ul li i {
-  color: #c8242f;
+  color: #66bb6a;
   font-size: 20px;
   background-color: #ffffff;
   width: 35px;
@@ -2890,7 +2890,7 @@ Attorneey Area
 }
 
 .attorney-card .attorney-card-text ul li i:hover {
-  background-color: #c8242f;
+  background-color: #66bb6a;
   color: #ffffff;
 }
 
@@ -2927,7 +2927,7 @@ Attorneey Area
 
 .attor-details-item .attor-details-left .attor-social ul li a {
   display: block;
-  color: #c8242f;
+  color: #66bb6a;
   font-size: 18px;
 }
 
@@ -2971,7 +2971,7 @@ Attorneey Area
 }
 
 .attor-details-item .attor-details-left .attor-social-details ul li a:hover {
-  color: #c8242f;
+  color: #66bb6a;
 }
 
 .attor-details-item .attor-details-left .attor-work h3 {
@@ -3044,9 +3044,9 @@ Attorneey Area
 }
 
 .attor-details-item .attor-prev ul li a:hover {
-  background-color: #c8242f;
+  background-color: #66bb6a;
   color: #ffffff;
-  border: 1px solid #c8242f;
+  border: 1px solid #66bb6a;
 }
 
 .attor-details-item .attor-prev ul li:last-child {
@@ -3212,7 +3212,7 @@ Contact Area
 }
 
 .contact-form .form-check label a {
-  color: #c8242f;
+  color: #66bb6a;
   -webkit-transition: 0.7s;
   transition: 0.7s;
 }
@@ -3233,7 +3233,7 @@ Contact Area
 .contact-card span::before {
   content: '';
   position: absolute;
-  background-color: #c8242f;
+  background-color: #66bb6a;
   height: 2px;
   width: 50px;
   left: 0;
@@ -3247,7 +3247,7 @@ Contact Area
 }
 
 .contact-card h3 a:hover {
-  color: #c8242f;
+  color: #66bb6a;
 }
 
 .contact-card ul {
@@ -3262,7 +3262,7 @@ Contact Area
 }
 
 .contact-card ul li i {
-  color: #c8242f;
+  color: #66bb6a;
   font-size: 20px;
   background-color: #ffffff;
   width: 35px;
@@ -3275,7 +3275,7 @@ Contact Area
 }
 
 .contact-card ul li i:hover {
-  background-color: #c8242f;
+  background-color: #66bb6a;
   color: #ffffff;
 }
 
@@ -3343,7 +3343,7 @@ Footer Area
 .footer-area .footer-widget h3::before {
   content: '';
   position: absolute;
-  background: #c8242f;
+  background: #66bb6a;
   width: 55px;
   height: 2px;
   left: 0;
@@ -3374,14 +3374,14 @@ Footer Area
 }
 
 .footer-area .footer-widget .footer-text li a i {
-  color: #c8242f;
+  color: #66bb6a;
   position: absolute;
   left: 0;
   top: 3px;
 }
 
 .footer-area .footer-widget .footer-text li a:hover {
-  color: #c8242f;
+  color: #66bb6a;
   padding-left: 5px;
 }
 
@@ -3399,7 +3399,7 @@ Footer Area
 }
 
 .footer-area .footer-widget .info-list li i {
-  color: #c8242f;
+  color: #66bb6a;
   font-size: 16px;
   position: absolute;
   left: 0;
@@ -3415,7 +3415,7 @@ Footer Area
 }
 
 .footer-area .footer-widget .info-list li i:hover {
-  background: #c8242f;
+  background: #66bb6a;
   color: #ffffff;
 }
 
@@ -3424,7 +3424,7 @@ Footer Area
 }
 
 .footer-area .footer-widget .info-list li a:hover {
-  color: #c8242f;
+  color: #66bb6a;
   padding-left: 10px;
 }
 
@@ -3468,7 +3468,7 @@ Footer Area
 }
 
 .footer-area .footer-socials li a i:hover {
-  background: #c8242f;
+  background: #66bb6a;
   color: #ffffff;
 }
 
@@ -3489,7 +3489,7 @@ footer Bottom Area
 }
 
 .footer-bottom p a {
-  color: #c8242f;
+  color: #66bb6a;
 }
 
 .footer-bottom p a:hover {
@@ -3526,8 +3526,8 @@ Preloader Area
   margin: 8px;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
-  border: 32px solid #c8242f;
-  border-color: #c8242f transparent #c8242f transparent;
+  border: 32px solid #66bb6a;
+  border-color: #66bb6a transparent #66bb6a transparent;
   -webkit-animation: lds-hourglass 1.2s infinite;
           animation: lds-hourglass 1.2s infinite;
 }
@@ -3589,7 +3589,7 @@ Go Top Area
 }
 
 .go-top i {
-  background: #c8242f;
+  background: #66bb6a;
   color: #ffffff;
   width: 40px;
   height: 40px;
@@ -3715,7 +3715,7 @@ Page banner Area
 }
 
 .page-banner .page-content ul li a:hover {
-  color: #c8242f;
+  color: #66bb6a;
 }
 
 .pagination {
@@ -3731,7 +3731,7 @@ Page banner Area
 }
 
 .pagination .page-item .page-link {
-  color: #c8242f;
+  color: #66bb6a;
   border: none;
   border-radius: 0;
   -webkit-box-shadow: none;
@@ -3746,14 +3746,14 @@ Page banner Area
 }
 
 .pagination .page-item .page-link:hover {
-  background-color: #c8242f;
+  background-color: #66bb6a;
   color: #ffffff;
   -webkit-box-shadow: 0px 7px 20px 0px #dcdcdc;
           box-shadow: 0px 7px 20px 0px #dcdcdc;
 }
 
 .pagination .page-item.active .page-link {
-  background-color: #c8242f;
+  background-color: #66bb6a;
   color: #ffffff;
   -webkit-box-shadow: 0px 7px 20px 0px #dcdcdc;
           box-shadow: 0px 7px 20px 0px #dcdcdc;
@@ -3819,7 +3819,7 @@ Sign In Area
 }
 
 .sign-in-area .sign-in-form .account-decs a {
-  color: #c8242f;
+  color: #66bb6a;
   margin-left: 5px;
 }
 
@@ -3863,7 +3863,7 @@ Sign Up Area
 }
 
 .sign-up-area .sign-up-form .form-group label a:hover {
-  color: #c8242f;
+  color: #66bb6a;
 }
 
 .sign-up-area .sign-up-form .form-control {
@@ -3883,7 +3883,7 @@ Sign Up Area
 }
 
 .sign-up-area .sign-up-form .account-decs a {
-  color: #c8242f;
+  color: #66bb6a;
   margin-left: 5px;
 }
 
@@ -4014,7 +4014,7 @@ Coming Soon Area
 }
 
 .coming-soon-area .coming-soon-contant .coming-soon-form .form-btn:hover {
-  background: #c8242f;
+  background: #66bb6a;
   color: #ffffff;
 }
 
@@ -4044,7 +4044,7 @@ Coming Soon Area
 }
 
 .coming-soon-area .coming-soon-contant ul li i:hover {
-  background: #c8242f;
+  background: #66bb6a;
   color: #ffffff;
 }
 
@@ -4082,7 +4082,7 @@ Error Area
 }
 
 .error-area .error .error-btn a:hover {
-  color: #c8242f;
+  color: #66bb6a;
 }
 
 /*================================================
@@ -4142,7 +4142,7 @@ Faq Area
 }
 
 .faq-accordion .accordion .accordion-title.active i::before {
-  color: #c8242f;
+  color: #66bb6a;
 }
 
 .faq-accordion .accordion .accordion-content {
@@ -4150,7 +4150,7 @@ Faq Area
   position: relative;
   padding: 15px 20px;
   font-size: 14px;
-  border-top: 1px solid #c8242f;
+  border-top: 1px solid #66bb6a;
 }
 
 .faq-accordion .accordion .accordion-content.show {
@@ -4231,7 +4231,7 @@ Faq Area
 .case-details-tab .case-details-tab-item .nav-pills .nav-link {
   border-radius: 0;
   color: #ffffff;
-  border: 1px solid #c8242f;
+  border: 1px solid #66bb6a;
   width: 150px;
   text-align: center;
   margin-right: 10px;
@@ -4240,7 +4240,7 @@ Faq Area
 }
 
 .case-details-tab .case-details-tab-item .nav-pills .nav-link.active {
-  background-color: #c8242f;
+  background-color: #66bb6a;
 }
 
 .case-details-tab .case-details-tab-item .tab-content h3 {
@@ -4262,7 +4262,7 @@ Faq Area
 }
 
 .case-details-tab .case-details-tab-item .case-details-tab-img img {
-  border: 10px solid #c8242f;
+  border: 10px solid #66bb6a;
 }
 
 /*================================================
@@ -4291,7 +4291,7 @@ Gallery  Area
 }
 
 .gallery-area .atorn-gallery .caption a i {
-  color: #c8242f;
+  color: #66bb6a;
   font-size: 30px;
 }
 
